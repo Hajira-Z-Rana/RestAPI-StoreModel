@@ -1,0 +1,2 @@
+docker tag restapi-web:latest hajirarana05/hajiraranatest:0.1
+docker push hajirarana05/hajiraranatest:0.1 
